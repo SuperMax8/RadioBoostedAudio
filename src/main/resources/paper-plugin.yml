@@ -1,0 +1,4 @@
+name: RadioBoostedAudio
+version: '${project.version}'
+main: fr.supermax_8.radioboostedaudio.RadioBoostedAudio
+api-version: '1.20'
